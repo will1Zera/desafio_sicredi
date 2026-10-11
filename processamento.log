@@ -1,0 +1,14 @@
+2026-10-11 19:57:29,174 | INFO    | Início do processamento
+2026-10-11 19:57:29,174 | INFO    | Total de registros lidos: 15
+2026-10-11 19:57:29,175 | WARNING | Registro ignorado (posição 2, id=2): cpf vazio
+2026-10-11 19:57:29,175 | WARNING | Registro ignorado (posição 3, id=3): status diferente de APROVADO (valor: 'PENDENTE')
+2026-10-11 19:57:29,175 | WARNING | Registro ignorado (posição 5, id=5): status diferente de APROVADO (valor: 'PENDENTE')
+2026-10-11 19:57:29,175 | WARNING | Registro ignorado (posição 7, id=7): status diferente de APROVADO (valor: 'REPROVADO')
+2026-10-11 19:57:29,175 | WARNING | Registro ignorado (posição 8, id=8): cpf vazio
+2026-10-11 19:57:29,175 | WARNING | Registro ignorado (posição 10, id=10): status diferente de APROVADO (valor: 'PENDENTE')
+2026-10-11 19:57:29,175 | WARNING | Registro ignorado (posição 11, id=11): status diferente de APROVADO (valor: 'REPROVADO')
+2026-10-11 19:57:29,175 | WARNING | Registro ignorado (posição 14, id=14): status diferente de APROVADO (valor: 'PENDENTE')
+2026-10-11 19:57:29,176 | INFO    | Total de registros exportados: 7
+2026-10-11 19:57:29,177 | INFO    | Total de registros ignorados: 8
+2026-10-11 19:57:29,177 | INFO    | Arquivo gerado: C:\Users\William Bierhals\OneDrive\Documentos\Projetos\desafio_sicredi\aprovados.csv
+2026-10-11 19:57:29,177 | INFO    | Processamento concluído com sucesso
