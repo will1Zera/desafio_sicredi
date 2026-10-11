@@ -1,0 +1,26 @@
+# Arquivos gerados pela execução (Não é necessário ignorar pois o avaliador pode querer analisar os arquivos gerados sem executar)
+#aprovados.csv
+#aprovados.csv.tmp
+#processamento.log
+
+# Como são dados de teste, não é necessário ignorar o arquivo de solicitacoes por não conter dados reais
+#solicitacoes.json
+
+# Cache e bytecode do Python
+__pycache__/
+*.py[cod]
+
+# Ambientes virtuais
+.venv/
+venv/
+
+# Cache de testes e cobertura
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Editores e sistema operacional
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
