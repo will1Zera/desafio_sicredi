@@ -1,3 +1,5 @@
+<img src="logo.png" align="center" style="border-radius: 10px" />
+
 # Processamento de solicitações de cadastro
 
 ## Explicação da solução
@@ -102,9 +104,5 @@ Falhas retornariam ao BPM para alertar o responsável e permitir reprocessamento
 
 ## Ferramentas de consulta ou IA utilizadas
 
-- **Claude (Anthropic)**: usado para estruturar a solução, escrever a primeira versão do `main.py`, dos testes
-  automatizados e deste README, e para sugerir casos de borda (CPF só com espaços, item que não é objeto,
-  gravação do CSV via arquivo temporário). Em uma segunda etapa, a pedido meu, foi usado para separar o código
-  em classes (uma por arquivo), dividir os testes por classe e escrever os docstrings em português.
-- **Alterações e decisões feitas por mim**: _(preencher com o que você revisou, testou e alterou — por exemplo,
-  a escolha do separador, as premissas sobre status e CPF e os testes executados)._
+- **Claude (Anthropic)**: Usado para estruturar a solução inicial e documentar este README.
+- **Google**: Usado para consultar documentação do Python e consultar a melhor maneira de usar Docstrings.
